@@ -1,0 +1,14 @@
+{
+  "name": "w-cli",
+  "version": "0.0.1",
+  "description": "a simple project of cli",
+  "main": "n",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "wisenl",
+  "license": "MIT"
+}
