@@ -6,9 +6,16 @@
   "scripts": {
     "test": "test"
   },
+  "bin": {
+    "w": "bin/w",
+    "w-init": "bin/w-init"
+  },
   "keywords": [
     "cli"
   ],
   "author": "wisenl",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
 }
